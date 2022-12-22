@@ -58,8 +58,6 @@ const AuthForm = () => {
       }).catch((err) => {
         alert(err.message);
       });
-
-
   }
 
   return (
